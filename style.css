@@ -1,11 +1,12 @@
-* {
+*
+{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body {
-  background-color: #3d64e6;
+  body {
+    background: url("https://snazzy-maps-cdn.azureedge.net/assets/72543-assassins-creed-iv.png?v=20170626083519");
 }
 .container {
   background-color: #ffffff;
@@ -26,7 +27,7 @@ body {
 }
 .search-wrapper button {
   font-size: 1em;
-  background-color: #3d64e6;
+  background-color: #212224;
   color: #ffffff;
   padding: 0.8em 0;
   border: none;
@@ -36,7 +37,7 @@ body {
   font-size: 1em;
   padding: 0 0.62em;
   border: none;
-  border-bottom: 2px solid #3d64e6;
+  border-bottom: 2px solid #171b29;
   outline: none;
   color: #222a43;
 }
